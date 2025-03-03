@@ -1,0 +1,15 @@
+{
+  "name": "qgis_cj_projects",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.1.1"
+  },
+  "dependencies": {
+    "ol": "latest"
+  }
+}
