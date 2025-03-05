@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "start": "vite",
-    "build": "vite build --base=//Qgis_CJ_Projects/",
+    "build": "vite build --base=/Qgis_CJ_Projects/",
     "serve": "vite preview",
     "deploy": "deploy.bat"
   },
