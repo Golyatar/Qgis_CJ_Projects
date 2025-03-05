@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "scripts": {
     "start": "vite",
-    "build": "vite build",
+    "build": "vite build --base=//Qgis_CJ_Projects/",
     "serve": "vite preview",
-    "deploy": "./deploy.bat"
+    "deploy": "deploy.bat"
   },
   "devDependencies": {
     "vite": "^6.1.1"
